@@ -1,0 +1,5 @@
+
+{ 
+    "mongoURI" : "mongodb+srv://yuki:yuki@contactkeeper.iq9xa.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret" : "konodioda"
+}
